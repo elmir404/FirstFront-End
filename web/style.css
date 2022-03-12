@@ -1,0 +1,8 @@
+  p[title]{
+    border: 1px solid blue;
+    padding: 5px;
+}
+p[title="ikinci praf"]{
+    border: 3px soldi gold;
+    padding: 10px;
+}
